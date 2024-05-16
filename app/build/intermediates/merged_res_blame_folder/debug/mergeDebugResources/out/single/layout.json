@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.utkarsh.foodseva.app-mergeDebugResources-60:/layout/fragment_detail_of_donate.xml",
+        "source": "com.utkarsh.foodseva.app-main-63:/layout/fragment_detail_of_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\donation_item_list.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\donation_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_raw_food.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_raw_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_food_list.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_detail_of_donate.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_detail_of_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_packed_food.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_packed_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_organization.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_organization.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_activity.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\help_activity.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\help_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_cooked_food.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_cooked_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_location.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\donate_items_list.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\donate_items_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\fragment_donate.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-mergeDebugResources-60:\\layout\\home_img_slider.xml",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\home_img_slider.xml"
+    }
+]

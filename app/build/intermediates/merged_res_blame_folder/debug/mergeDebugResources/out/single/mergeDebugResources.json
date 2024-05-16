@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_time.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_activity.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_location.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_spca.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\spca.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_organization.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_organization.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_raw.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\raw.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_hp1.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\hp1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_educare.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\educare.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_user.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_cooked_food.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_cooked_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_hp4.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\hp4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_packed_food.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_packed_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_donate_items_list.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\donate_items_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_cooked.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\cooked.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_raw_food.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_raw_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_detail_of_donate.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_detail_of_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_upper_background.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\upper_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_camera.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_phone.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_botton_nav_background.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\botton_nav_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_safehands.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\safehands.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_home_img_slider.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\home_img_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_packed.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\packed.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_dinner.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\dinner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_hp3.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\hp3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_lunch.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\lunch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_help.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-pngs-57:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_breakfast.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\breakfast.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_google.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_location.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_schedule.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\schedule.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_hp2.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\hp2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_arrive.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\arrive.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_background_img.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\background_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_donation.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\donation.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_edit_txt_background.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\edit_txt_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_food_list.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_history.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_loacton_of_user.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\loacton_of_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_seekbarprofile.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\seekbarprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_ok.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_help_activity.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\help_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_organization.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\organization.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_hp5.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\hp5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_utkarshpic.jpg.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\utkarshpic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_nanhekadam.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\nanhekadam.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_fragment_donate.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\fragment_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_sankalp.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\sankalp.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\layout_donation_item_list.xml.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\layout\\donation_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_salaam.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\salaam.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_saarthi.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\saarthi.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_activityy.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\activityy.png"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_home.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\home.png"
+    },
+    {
+        "merged": "com.utkarsh.foodseva.app-debug-61:/layout_fragment_detail_of_donate.xml.flat",
+        "source": "com.utkarsh.foodseva.app-main-63:/layout/fragment_detail_of_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-debug-61:\\drawable_coodeseekbar.png.flat",
+        "source": "C:\\Users\\kantn\\.gradle\\daemon\\8.4\\com.utkarsh.foodseva.app-main-63:\\drawable\\coodeseekbar.png"
+    }
+]

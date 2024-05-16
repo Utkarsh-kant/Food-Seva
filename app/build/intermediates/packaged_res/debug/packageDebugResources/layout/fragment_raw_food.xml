@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="Fragments.RawFoodFragment"
+    android:padding="20dp"
+    android:fitsSystemWindows="true">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="Donate Raw Food"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/Orange_Background"
+        android:id="@+id/txt_heading_donate_packed"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dp"
+        android:text="Meal Type"
+        app:layout_constraintTop_toBottomOf="@id/txt_heading_donate_packed"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:id="@+id/txt_donate"/>
+    <RadioGroup
+        app:layout_constraintTop_toBottomOf="@id/txt_donate"
+        android:id="@+id/radio_group"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radio_btn_veg"
+            android:layout_weight="1"
+            android:text="Veg Packed"
+            android:textSize="15sp"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radio_btn_nonveg"
+            android:layout_weight="1"
+            android:text="Non-veg Packed"
+            android:textSize="15sp"/>
+    </RadioGroup>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/radio_group"
+        android:layout_marginTop="30dp"
+        android:id="@+id/ll_food_group">
+        <de.hdodenhof.circleimageview.CircleImageView
+            app:layout_constraintTop_toBottomOf="@id/radio_group"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:id="@+id/img_breakfast"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:src="@drawable/breakfast"
+            android:textColor="@color/Orange_Background"
+            app:civ_border_color="@color/Orange_Background"
+            android:layout_weight="1"
+            app:civ_border_width="1dp" />
+        <de.hdodenhof.circleimageview.CircleImageView
+            app:layout_constraintTop_toBottomOf="@id/radio_group"
+            app:layout_constraintLeft_toRightOf="@id/img_breakfast"
+            android:id="@+id/img_lunch"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/lunch"
+            android:textColor="@color/Orange_Background"
+            app:civ_border_color="@color/Orange_Background"
+            app:civ_border_width="1dp" />
+        <de.hdodenhof.circleimageview.CircleImageView
+            app:layout_constraintTop_toBottomOf="@id/radio_group"
+            app:layout_constraintLeft_toRightOf="@id/img_lunch"
+            android:id="@+id/img_dinner"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/dinner"
+            android:textColor="@color/Orange_Background"
+            app:civ_border_color="@color/Orange_Background"
+            app:civ_border_width="1dp"
+            />
+
+    </LinearLayout>
+    <RadioGroup
+        app:layout_constraintTop_toBottomOf="@id/ll_food_group"
+        android:id="@+id/radio_group_Foodtype"
+        android:layout_marginLeft="10dp"
+
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="1"
+            android:text="Breakfast"
+            android:textSize="15sp"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="1"
+            android:text="Lunch"
+            android:textSize="15sp"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="1"
+            android:text="Dinner"
+            android:textSize="15sp"/>
+    </RadioGroup>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:text="Quantity (Per Person)"
+        app:layout_constraintTop_toBottomOf="@id/radio_group_Foodtype"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:id="@+id/txt_quantity"/>
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_quantity"
+        android:layout_margin="20dp"
+        android:thumb="@drawable/seekbarprofile"
+        android:thumbTint="@color/Orange_Background"
+        android:id="@+id/seekbar_quantity"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        app:layout_constraintTop_toBottomOf="@id/seekbar_quantity"
+        android:id="@+id/txt_seekbar_quantity"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="20dp"
+        android:textSize="12sp"
+        />
+
+
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:text="Time "
+        android:textSize="15sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_seekbar_quantity"/>
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_seekbar_quantity"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="20dp"
+        android:thumb="@drawable/time"
+        android:layout_marginRight="20dp"
+        android:thumbTint="@color/Orange_Background"
+        android:id="@+id/seekbar_time"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/seekbar_time"
+        android:id="@+id/ll_txt_time">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:layout_weight="1"/>
+
+
+
+    </LinearLayout>
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_margin="20dp"
+        app:backgroundTint="@color/Orange_Background"
+        android:textAllCaps="false"
+        android:text="Post"
+        android:textSize="18dp"
+        app:cornerRadius="10dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:id="@+id/btn_cooked_post"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
