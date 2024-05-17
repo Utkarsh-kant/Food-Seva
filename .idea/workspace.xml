@@ -101,7 +101,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5070a654-fab1-4279-9238-a85fed46fa12" name="Changes" comment="" />
+    <list default="true" id="5070a654-fab1-4279-9238-a85fed46fa12" name="Changes" comment="Food seva&#10;&#10;Signed-off-by: Utkarsh kant &lt;kantnishi400@gmail.com&gt;">
+      <changelist_data name="Utkarsh kant" email="kantnishi400@gmail.com" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,14 +129,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Utkarsh kant &lt;kantnishi400@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Utkarsh-kant"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Utkarsh-kant&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -288,6 +296,31 @@
       <option name="presentableId" value="Default" />
       <updated>1710131107287</updated>
     </task>
+    <task id="LOCAL-00001" summary="Food seva">
+      <option name="closed" value="true" />
+      <created>1715852730530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715852730530</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Food seva">
+      <option name="closed" value="true" />
+      <created>1715852865178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715852865178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Food seva">
+      <option name="closed" value="true" />
+      <created>1715852901266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715852901266</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,5 +333,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Food seva" />
+    <MESSAGE value="Food seva&#10;&#10;Signed-off-by: Utkarsh kant &lt;kantnishi400@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Food seva&#10;&#10;Signed-off-by: Utkarsh kant &lt;kantnishi400@gmail.com&gt;" />
   </component>
 </project>
